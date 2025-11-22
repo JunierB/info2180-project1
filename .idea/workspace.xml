@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae0fe89e-b0cc-4158-8fe9-e8ddd83aded4" name="Changes" comment="Completed" />
+    <list default="true" id="ae0fe89e-b0cc-4158-8fe9-e8ddd83aded4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aihealthy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitnesstracker.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/healthylifestyle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ministerofhealth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,22 +28,22 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "JunierB"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JunierB&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JunierB/info2180-project1.git",
-    "accountId": "734fcbcc-7b77-4654-8531-21156b735467"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JunierB/info2180-project1.git&quot;,
+    &quot;accountId&quot;: &quot;734fcbcc-7b77-4654-8531-21156b735467&quot;
   }
-}]]></component>
+}</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../../../php-8.4.15/php.exe" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="35m5D8qaj38L9MwxgkoCP60iTFL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,6 +53,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "landing-page-implementation",
     "last_opened_file_path": "C:/Users/baile/PhpstormProjects/info2180-project1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
